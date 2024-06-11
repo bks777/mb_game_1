@@ -1,0 +1,26 @@
+{
+    "name": "test2",
+    "description": "",
+    "dependencies": {
+        "core": "*",
+        "radio": "*",
+        "radio-broadcast": "*",
+        "microphone": "*"
+    },
+    "files": [
+        "main.ts",
+        "README.md",
+        "aaaa.ts"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "target": "6.0.28",
+        "targetId": "microbit"
+    },
+    "supportedTargets": [
+        "microbit"
+    ],
+    "preferredEditor": "tsprj"
+}
